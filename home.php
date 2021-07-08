@@ -151,7 +151,7 @@
 				</p>
 				<?php
 				if ( shortcode_exists( 'contact-form-7' ) ) {
-					echo do_shortcode( '[contact-form-7 id="20" title="コンタクトフォーム 1"]' );
+					echo do_shortcode( '[contact-form-7 id="13" title="コンタクトフォーム 1"]' );
 				}
 				?>
 				<div class="contact-policy">
